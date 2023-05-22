@@ -1,0 +1,10 @@
+Info,  T848: Load models\MemoryRoom.obj
+Info,  T848: Found a matching importer for this file format
+Info,  T848: Import root directory is 'models\'
+Info,  T848: Entering post processing pipeline
+Info,  T848: TriangulateProcess finished. All polygons have been triangulated.
+Info,  T848: Points: 0, Lines: 0, Triangles: 18, Polygons: 0 (Meshes, X = removed)
+Info,  T848: JoinVerticesProcess finished | Verts in: 5879 out: 2872 | ~51.1%
+Warn,  T848: Mesh 15: Not suitable for vcache optimization
+Info,  T848: Cache relevant are 17 meshes (2463 faces). Average output ACMR is 1.199756
+Info,  T848: Leaving post processing pipeline
